@@ -1,7 +1,9 @@
 # Dashboard de Gestão de Vendas
 
 ## 📌 Objetivo
+
 Este projeto tem como finalidade monitorar e analisar as **vendas e gerenciamento produtos, sedes e segmentos**, permitindo identificar segmentos, produtos e países mais vantajosos, podendo gerar uma melhor tomada de decisão.
+
 ---
 
 ## 🛠 Ferramentas Utilizadas
