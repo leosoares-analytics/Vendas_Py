@@ -25,13 +25,17 @@ Este projeto tem como finalidade monitorar e analisar as **vendas e gerenciament
 <div align="Center">
 <img src="https://github.com/user-attachments/assets/30d2e6e1-443a-45d8-ae73-43985932bf88" width="350px" />
 </div> 
-- Margem de Lucro por produto:
+
+- Margem de Lucro por Produto:
   - Baixo faturamento vindo do "Produto 1" quando comparado com os demais produtos.
+  
 <div align="Center">
 <img src="https://github.com/user-attachments/assets/f92568ae-c4c8-4c24-b8cf-24707cdd5db6" width="350px" />
 </div> 
+
 - Margem de Lucro por segmento:
   - Grandes empresas representam uma divida para empresa, tendo um faturamento negativo ( margem de lucro de -4,88% ).
+  
 <div align="Center">
 <img src="https://github.com/user-attachments/assets/baac2521-3a1a-4ce3-91a5-adf07dcb0e2c" width="350px" />
 </div> 
