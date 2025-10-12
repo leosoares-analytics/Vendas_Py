@@ -21,16 +21,19 @@ Este projeto tem como finalidade monitorar e analisar as **vendas e gerenciament
 
 ## 💡 Resultados e Impacto
 - Margem de Lucro por País:
+  - Baixa variação de lucro independente do país ( uma variação de 3,18% ), logo não tem nenhum país deficitário, entretanto ao mesmo tempo não tem nenhum país que se destaque.
 <div align="Left">
-<img src="https://github.com/user-attachments/assets/30d2e6e1-443a-45d8-ae73-43985932bf88" width="500px" />
+<img src="https://github.com/user-attachments/assets/30d2e6e1-443a-45d8-ae73-43985932bf88" width="250px" />
 </div> 
-Margem de Lucro por produto:
+- Margem de Lucro por produto:
+  - Baixo faturamento vindo do "Produto 1" quando comparado com os demais produtos.
 <div align="Left">
-<img src="https://github.com/user-attachments/assets/f92568ae-c4c8-4c24-b8cf-24707cdd5db6" width="500px" />
+<img src="https://github.com/user-attachments/assets/f92568ae-c4c8-4c24-b8cf-24707cdd5db6" width="250px" />
 </div> 
-Margem de Lucro por segmento:
+- Margem de Lucro por segmento:
+  - Grandes empresas representam uma divida para empresa, tendo um faturamento negativo ( margem de lucro de -4,88% ).
 <div align="Left">
-<img src="https://github.com/user-attachments/assets/baac2521-3a1a-4ce3-91a5-adf07dcb0e2c" width="500px" />
+<img src="https://github.com/user-attachments/assets/baac2521-3a1a-4ce3-91a5-adf07dcb0e2c" width="250px" />
 </div> 
 
 <!--
