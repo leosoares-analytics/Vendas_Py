@@ -1,7 +1,7 @@
-# Dashboard de Gestão de Vendas
+# 📊 Dashboard de Gestão de Vendas
 ## Análise estratégica de países, produtos e segmentos para suporte à tomada de decisão
 
-### Situação
+### 🌟 Situação
 
 A empresa possui dados de vendas distribuídos entre países, produtos e segmentos, mas sem indicadores claros sobre rentabilidade, desempenho por categoria e risco operacional. Isso dificultava decisões estratégicas e entendimento de onde estavam as melhores oportunidades.
 
